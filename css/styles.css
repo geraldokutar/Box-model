@@ -1,3 +1,6 @@
 .text-box {
-  border: 2px solid red;
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
 }
